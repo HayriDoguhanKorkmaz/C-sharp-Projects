@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\ogrenciOtomasyonUygulaması\ogrenciOtomasyonUygulaması\bin\Debug\net5.0\ogrenciOtomasyonUygulaması.exe
+C:\Users\DELL\Desktop\ogrenciOtomasyonUygulaması\ogrenciOtomasyonUygulaması\bin\Debug\net5.0\ogrenciOtomasyonUygulaması.deps.json
+C:\Users\DELL\Desktop\ogrenciOtomasyonUygulaması\ogrenciOtomasyonUygulaması\bin\Debug\net5.0\ogrenciOtomasyonUygulaması.runtimeconfig.json
+C:\Users\DELL\Desktop\ogrenciOtomasyonUygulaması\ogrenciOtomasyonUygulaması\bin\Debug\net5.0\ogrenciOtomasyonUygulaması.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\ogrenciOtomasyonUygulaması\ogrenciOtomasyonUygulaması\bin\Debug\net5.0\ogrenciOtomasyonUygulaması.dll
+C:\Users\DELL\Desktop\ogrenciOtomasyonUygulaması\ogrenciOtomasyonUygulaması\bin\Debug\net5.0\ref\ogrenciOtomasyonUygulaması.dll
+C:\Users\DELL\Desktop\ogrenciOtomasyonUygulaması\ogrenciOtomasyonUygulaması\bin\Debug\net5.0\ogrenciOtomasyonUygulaması.pdb
+C:\Users\DELL\Desktop\ogrenciOtomasyonUygulaması\ogrenciOtomasyonUygulaması\obj\Debug\net5.0\ogrenciOtomasyonUygulaması.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\ogrenciOtomasyonUygulaması\ogrenciOtomasyonUygulaması\obj\Debug\net5.0\ogrenciOtomasyonUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\ogrenciOtomasyonUygulaması\ogrenciOtomasyonUygulaması\obj\Debug\net5.0\ogrenciOtomasyonUygulaması.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\ogrenciOtomasyonUygulaması\ogrenciOtomasyonUygulaması\obj\Debug\net5.0\ogrenciOtomasyonUygulaması.AssemblyInfo.cs
+C:\Users\DELL\Desktop\ogrenciOtomasyonUygulaması\ogrenciOtomasyonUygulaması\obj\Debug\net5.0\ogrenciOtomasyonUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ogrenciOtomasyonUygulaması\ogrenciOtomasyonUygulaması\obj\Debug\net5.0\ogrenciOtomasyonUygulaması.dll
+C:\Users\DELL\Desktop\ogrenciOtomasyonUygulaması\ogrenciOtomasyonUygulaması\obj\Debug\net5.0\ref\ogrenciOtomasyonUygulaması.dll
+C:\Users\DELL\Desktop\ogrenciOtomasyonUygulaması\ogrenciOtomasyonUygulaması\obj\Debug\net5.0\ogrenciOtomasyonUygulaması.pdb
+C:\Users\DELL\Desktop\ogrenciOtomasyonUygulaması\ogrenciOtomasyonUygulaması\obj\Debug\net5.0\ogrenciOtomasyonUygulaması.genruntimeconfig.cache
