@@ -1,0 +1,11 @@
+C:\Users\hayri.korkmaz\source\repos\ConsoleApp1\DatabaseKullanimi\bin\Debug\DatabaseKullanimi.exe.config
+C:\Users\hayri.korkmaz\source\repos\ConsoleApp1\DatabaseKullanimi\bin\Debug\DatabaseKullanimi.exe
+C:\Users\hayri.korkmaz\source\repos\ConsoleApp1\DatabaseKullanimi\bin\Debug\DatabaseKullanimi.pdb
+C:\Users\hayri.korkmaz\source\repos\ConsoleApp1\DatabaseKullanimi\obj\Debug\DatabaseKullanimi.csproj.AssemblyReference.cache
+C:\Users\hayri.korkmaz\source\repos\ConsoleApp1\DatabaseKullanimi\obj\Debug\DatabaseKullanimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\hayri.korkmaz\source\repos\ConsoleApp1\DatabaseKullanimi\obj\Debug\DatabaseKullanimi.Form1.resources
+C:\Users\hayri.korkmaz\source\repos\ConsoleApp1\DatabaseKullanimi\obj\Debug\DatabaseKullanimi.Properties.Resources.resources
+C:\Users\hayri.korkmaz\source\repos\ConsoleApp1\DatabaseKullanimi\obj\Debug\DatabaseKullanimi.csproj.GenerateResource.cache
+C:\Users\hayri.korkmaz\source\repos\ConsoleApp1\DatabaseKullanimi\obj\Debug\DatabaseKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\hayri.korkmaz\source\repos\ConsoleApp1\DatabaseKullanimi\obj\Debug\DatabaseKullanimi.exe
+C:\Users\hayri.korkmaz\source\repos\ConsoleApp1\DatabaseKullanimi\obj\Debug\DatabaseKullanimi.pdb
